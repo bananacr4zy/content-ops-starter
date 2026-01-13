@@ -70,7 +70,7 @@
         "letterSpacing": "normal",
         "borderRadius": "DEFAULT",
         "shadow": "none",
-        "horizontalPadding": 25,
+        "horizontalPadding": 30,
         "verticalPadding": 28,
         "type": "ThemeStyleButton"
     },
